@@ -1,8 +1,7 @@
-Here is the README file content with icons:
 
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-![Header Image](link-unavailable)
+![Header Image](https://www.facebook.com/photo.php?fbid=845917894259277&set=a.102452505272490&type=3&mibextid=NOb6eG)
 
 ## 🤝 About Me
 
