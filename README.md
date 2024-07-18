@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-![Header Image](https://m.facebook.com/story.php?story_fbid=953171463270886&substory_index=953171463270886&id=100065232211666&sfnsn=scwspwa&mibextid=RUbZ1f)
+![Header Image](./WhatsApp Image 2024-07-17 at 20.13.55_1474ad73.jpg)
 
 ## 🤝 About Me
 
