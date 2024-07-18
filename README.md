@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-![Header Image](./WhatsApp Image 2024-07-17 at 20.13.55_1474ad73.jpg)
+![Header Image](/WhatsApp Image 2024-07-17 at 20.13.55_1474ad73.jpg)
 
 ## 🤝 About Me
 
