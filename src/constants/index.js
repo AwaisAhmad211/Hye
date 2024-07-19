@@ -283,27 +283,6 @@ const projects = [
     image: tripguide,
     source_code_link: "https://awaisahmad211.github.io/Coming-Soon-Page/",
   },
-  {
-    name: "40+ More",
-    description:
-      "Explore my collection of mini projects, showcasing my versatility and skill in tackling diverse challenges, from building a Chess Game Clone to crafting a To-Do List App and Weather Dashboard.",
-    tags: [
-      {
-        name: "HTML",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "CSS",
-        color: "green-text-gradient",
-      },
-      {
-        name: "JavaScript",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: projectList,
-    source_code_link: "https://my-portfolio-six-xi-78.vercel.app/",
-  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
