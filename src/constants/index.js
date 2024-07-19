@@ -24,7 +24,7 @@ import {
   tripguide,
   threejs,
   animated_portfolio,
-  projectList
+  projectList,
 } from "../assets";
 
 export const navLinks = [
