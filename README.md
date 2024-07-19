@@ -1,5 +1,5 @@
 
-# 🌟 Welcome to My GitHub Profile! 🌟
+# 🌟 Welcome to My Profile! 🌟
 
 ![Header Image](public/readme.jpg)
 
