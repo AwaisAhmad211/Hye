@@ -23,6 +23,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  animated_portfolio,
+  projectList
 } from "../assets";
 
 export const navLinks = [
@@ -240,6 +242,27 @@ const projects = [
     source_code_link: "https://github.com/AwaisAhmad211/Chess-Game",
   },
   {
+    name: "Animated Portfolio",
+    description:
+    " A vibrant and interactive portfolio that showcases my skills and experience as a MERN stack developer. This project features animated React components, 3D effects, and a chess game that demonstrates my creativity and technical expertise.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "SASS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: animated_portfolio,
+    source_code_link: "https://my-portfolio-six-xi-78.vercel.app/",
+  },
+  {
     name: "Ecommerce Store",
     description:
       "Currently developing an e-commerce website using HTML, CSS, JavaScript, React, and GSAP, focusing on creating a responsive anduser-friendly interface, integrating shopping cart functionality, secure payment processing,and a dynamic product catalog",
@@ -258,7 +281,28 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://awaisahmad211.github.io/Coming-Soon-Page/",
+  },
+  {
+    name: "40+ More",
+    description:
+      "Explore my collection of mini projects, showcasing my versatility and skill in tackling diverse challenges, from building a Chess Game Clone to crafting a To-Do List App and Weather Dashboard.",
+    tags: [
+      {
+        name: "HTML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: projectList,
+    source_code_link: "https://my-portfolio-six-xi-78.vercel.app/",
   },
 ];
 

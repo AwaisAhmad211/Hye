@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
+import { Link } from "react-router-dom";
 // import { ComputersCanvas } from "./canvas";
 
 const Hero = () => {
@@ -18,11 +19,11 @@ const Hero = () => {
           <h1 className={`${styles.heroHeadText} text-white`}>
             Hi, I'm <span className='text-[#915EFF]'>Awais</span>
           </h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop 3D visuals, user <br className='sm:block hidden' />
-            interfaces and web applications
+          <p className={`${styles.heroSubText} mt-2 text-white-100 mb-14`}>
+          Empowering your web identity,  <br className='sm:block hidden' />
+          We develop websites that ignite your business.
           </p>
-        <button className="border-gray-50">Resume</button>
+        <a href="https://drive.google.com/file/d/1HWy7g0XQPWJ8o_oFCtwnA4eyeuzVHAdv/view?usp=drivesdk" download="CV_Awais_Ahmad.pdf" rel="noopener noreferrer" target="_blank" className=" rounded-md border-2 p-[5px] mt-[50px]">Resume</a>
         </div>
       </div>
       {/* <ComputersCanvas /> */}
